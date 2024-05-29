@@ -368,7 +368,7 @@
       "city": "GOA",
       "address": "204-ybc nagar,xyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -383,7 +383,7 @@
       "city": "SHIMLA",
       "address": "204-zbc nagar,yyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -398,7 +398,7 @@
       "address": "204-mbc nagar,lyz-road",
       "city": "AGRA",
       "info": {
-        " bed": 5,
+        "bed": 5,
         "bathrooms": 2,
         "area": "33x4",
         "date": [1, 31]
@@ -413,7 +413,7 @@
       "city": "INDORE",
       "address": "204-nbc nagar,myz-road",
       "info": {
-        " bed": 3,
+        "bed": 3,
         "bathrooms": 1,
         "area": "36x2",
         "date": [1, 31]
@@ -428,7 +428,7 @@
       "city": "JAIPUR",
       "address": "204-obc nagar,nyz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 6,
         "area": "76x2",
         "date": [1, 31]
@@ -443,7 +443,7 @@
       "city": "PATNA",
       "address": "204-pbc nagar,oyz-road",
       "info": {
-        " bed": 4,
+        "bed": 4,
         "bathrooms": 4,
         "area": "100x20",
         "date": [1, 31]
@@ -458,7 +458,7 @@
       "city": "NAGPUR",
       "address": "204-qbc nagar,pyz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -473,7 +473,7 @@
       "city": "CHANDIGARH",
       "address": "204-rbc nagar,qyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -488,7 +488,7 @@
       "address": "204-sbc nagar,ryz-road",
       "city": "BHOPAL",
       "info": {
-        " bed": 5,
+        "bed": 5,
         "bathrooms": 2,
         "area": "33x4",
         "date": [1, 31]
@@ -503,7 +503,7 @@
       "city": "NOIDA",
       "address": "204-tbc nagar,syz-road",
       "info": {
-        " bed": 3,
+        "bed": 3,
         "bathrooms": 1,
         "area": "36x2",
         "date": [1, 31]
@@ -518,7 +518,7 @@
       "city": "KANPUR",
       "address": "204-ubc nagar,tyz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 6,
         "area": "76x2",
         "date": [1, 31]
@@ -533,7 +533,7 @@
       "city": "GHAZIABAD",
       "address": "204-vbc nagar,uyz-road",
       "info": {
-        " bed": 4,
+        "bed": 4,
         "bathrooms": 4,
         "area": "100x20",
         "date": [1, 31]
@@ -548,7 +548,7 @@
       "city": "VARANASI",
       "address": "204-wbc nagar,vyz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -563,7 +563,7 @@
       "city": "BIHAR",
       "address": "204-xbc nagar,wyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -578,7 +578,7 @@
       "city": "GOA",
       "address": "204-ybc nagar,xyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -593,7 +593,7 @@
       "city": "SHIMLA",
       "address": "204-zbc nagar,yyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -608,7 +608,7 @@
       "address": "204-abc nagar,xyz-road",
       "city": "MUMBAI",
       "info": {
-        " bed": 5,
+        "bed": 5,
         "bathrooms": 2,
         "area": "33x4",
         "date": [1, 31]
@@ -623,7 +623,7 @@
       "city": "CHENNAI",
       "address": "204-bbc nagar,ayz-road",
       "info": {
-        " bed": 3,
+        "bed": 3,
         "bathrooms": 1,
         "area": "36x2",
         "date": [1, 31]
@@ -638,7 +638,7 @@
       "city": "HYDERABAD",
       "address": "204-cbc nagar,byz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 6,
         "area": "76x2",
         "date": [1, 31]
@@ -653,7 +653,7 @@
       "city": "KOLKATA",
       "address": "204-dbc nagar,cyz-road",
       "info": {
-        " bed": 4,
+        "bed": 4,
         "bathrooms": 4,
         "area": "100x20",
         "date": [1, 31]
@@ -668,7 +668,7 @@
       "city": "UDAIPUR",
       "address": "204-ebc nagar,dyz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -683,7 +683,7 @@
       "city": "PUNE",
       "address": "204-fbc nagar,eyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -698,7 +698,7 @@
       "address": "204-gbc nagar,fyz-road",
       "city": "BANGLORE",
       "info": {
-        " bed": 5,
+        "bed": 5,
         "bathrooms": 2,
         "area": "33x4",
         "date": [1, 31]
@@ -713,7 +713,7 @@
       "city": "AHEMDABAD",
       "address": "204-hbc nagar,gyz-road",
       "info": {
-        " bed": 3,
+        "bed": 3,
         "bathrooms": 1,
         "area": "36x2",
         "date": [1, 31]
@@ -728,7 +728,7 @@
       "city": "SURAT",
       "address": "204-ibc nagar,hyz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 6,
         "area": "76x2",
         "date": [1, 31]
@@ -743,7 +743,7 @@
       "city": "VISHAKAPATNAM",
       "address": "204-jbc nagar,iyz-road",
       "info": {
-        " bed": 4,
+        "bed": 4,
         "bathrooms": 4,
         "area": "100x20",
         "date": [1, 31]
@@ -758,7 +758,7 @@
       "city": "New Delhi",
       "address": "204-kbc nagar,jyz-road",
       "info": {
-        " bed": 2,
+        "bed": 2,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]
@@ -773,7 +773,22 @@
       "city": "LUCKNOW",
       "address": "204-lbc nagar,kyz-road",
       "info": {
-        " bed": 1,
+        "bed": 1,
+        "bathrooms": 1,
+        "area": "76x2",
+        "date": [1, 31]
+      },
+      "type": "All oyo"
+    },
+    {
+      "id": 53,
+      "name": "House 53",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D",
+      "price": 500,
+      "city": "PATNA",
+      "address": "204-lbc airport,gandhiMaidan-road",
+      "info": {
+        "bed": 1,
         "bathrooms": 1,
         "area": "76x2",
         "date": [1, 31]

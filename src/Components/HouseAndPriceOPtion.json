@@ -1,0 +1,20 @@
+{
+  "optionDataPrice": [
+    { "price": "0-3000" },
+    { "price": "Rs. 0-500" },
+    { "price": "Rs. 500-1000" },
+    { "price": "Rs. 1000-1500" },
+    { "price": "Rs. 1500-2000" },
+    { "price": "Rs. 2000-2500" },
+    { "price": "Rs. 2500-3000" }
+  ],
+  "optionDataHouseTYpe": [
+    { "type": "All" },
+    { "type": "house" },
+    { "type": "pg" },
+    { "type": "farm-house" },
+    { "type": "villa" },
+    { "type": "hotel" },
+    { "type": "oyo" }
+  ]
+}
