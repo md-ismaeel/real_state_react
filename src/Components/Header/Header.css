@@ -1,0 +1,58 @@
+/* ------------------------------------------------- */
+/* ------------------------------------------------- */
+@media screen and (max-width:320px) {
+
+    .sec-form {
+        gap: 10px !important;
+    }
+
+    .input-search {
+        width: 180px !important;
+
+    }
+
+    .house-details {
+        flex-direction: column;
+        width: 95% !important;
+        gap: 1rem;
+        padding: 1rem 0;
+    }
+}
+
+@media screen and (min-width:321px) and (max-width:376px) {
+
+    .sec-form {
+        gap: 10px !important;
+    }
+
+    .input-search {
+        width: 180px !important;
+
+    }
+
+    .house-details {
+        flex-direction: column;
+        width: 95% !important;
+        gap: 1rem;
+        padding: 1rem 0;
+    }
+}
+
+@media screen and (min-width:376px) and (max-width:426px) {
+
+    .sec-form {
+        gap: 10px !important;
+    }
+
+    .input-search {
+        width: 180px !important;
+
+    }
+
+    .house-details {
+        flex-direction: column;
+        width: 95% !important;
+        gap: 1rem;
+        padding: 1rem 0;
+    }
+}

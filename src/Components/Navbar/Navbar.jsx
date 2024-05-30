@@ -2,13 +2,10 @@ import { useContext, useState } from 'react'
 import { UserContext } from '../../Context/Context'
 import { FaHeart } from "react-icons/fa";
 import { NavLink } from 'react-router-dom';
+import "../Navbar/Navbar.css"
 
 export const Navbar = () => {
-    const { liked, setLiked, count, setCount } = useContext(UserContext);
-
-    const likedHandler = () => {
-
-    }
+    const { count } = useContext(UserContext);
 
     return (
         <>
@@ -21,12 +18,12 @@ export const Navbar = () => {
                     </div>
                 </NavLink>
 
-                <h1 className='text-3xl text-gray-500 font-semibold'>Search properties to rent</h1>
+                <h1 className='search-text text-3xl text-gray-500 font-semibold'>Search properties to rent</h1>
 
                 <NavLink to={'/like'}>
                     <div className='relative flex justify-center items-center gap-2 text-xl'>
                         <span>Liked</span>
-                        <span onClick={() => likedHandler} className='text-red-600 text-2xl cursor-pointer'><FaHeart />
+                        <span className='text-red-600 text-2xl cursor-pointer'><FaHeart />
                             <span className='flex justify-center items-center absolute top-[-5px] right-[-12px] rounded-full h-[25px] w-[25px] bg-emerald-100 text-sm text-black'>{count}</span>
                         </span>
                     </div>
